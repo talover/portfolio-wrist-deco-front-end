@@ -1,0 +1,24 @@
+<svg  viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="25" cy="25" r="24.5" stroke="url(#paint0_linear_2020_1505)"/>
+<path d="M30.83 25.89C29.75 27.49 28.04 28.62 26.05 28.91C25.71 28.97 25.36 29 25 29C24.64 29 24.29 28.97 23.95 28.91C21.96 28.62 20.25 27.49 19.17 25.89C18.43 24.78 18 23.45 18 22C18 18.13 21.13 15 25 15C28.87 15 32 18.13 32 22C32 23.45 31.57 24.78 30.83 25.89Z" stroke="url(#paint1_linear_2020_1505)" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.6001 31.8599C32.2301 31.9499 31.9401 32.2299 31.8601 32.5999L31.5101 34.0699C31.3201 34.8699 30.3001 35.1099 29.7701 34.4799L25.0001 28.9999L20.2301 34.4899C19.7001 35.1199 18.6801 34.8799 18.4901 34.0799L18.1401 32.6099C18.0501 32.2399 17.7601 31.9499 17.4001 31.8699L15.7501 31.4799C14.9901 31.2999 14.7201 30.3499 15.2701 29.7999L19.1701 25.8999C20.2501 27.4999 21.9601 28.6299 23.9501 28.9199C24.2901 28.9799 24.6401 29.0099 25.0001 29.0099C25.3601 29.0099 25.7101 28.9799 26.0501 28.9199C28.0401 28.6299 29.7501 27.4999 30.8301 25.8999L34.7301 29.7999C35.2801 30.3399 35.0101 31.2899 34.2501 31.4699L32.6001 31.8599Z" stroke="url(#paint2_linear_2020_1505)" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26.17 20.16C26.25 20.32 26.46 20.48 26.65 20.51L27.72 20.69C28.4 20.8 28.56 21.3 28.07 21.79L27.24 22.62C27.1 22.76 27.02 23.03 27.07 23.23L27.31 24.26C27.5 25.07 27.07 25.39 26.35 24.96L25.35 24.37C25.17 24.26 24.87 24.26 24.69 24.37L23.69 24.96C22.97 25.38 22.54 25.07 22.73 24.26L22.97 23.23C23.01 23.04 22.94 22.76 22.8 22.62L21.97 21.79C21.48 21.3 21.64 20.81 22.32 20.69L23.39 20.51C23.57 20.48 23.78 20.32 23.86 20.16L24.45 18.98C24.74 18.34 25.26 18.34 25.58 18.98L26.17 20.16Z" stroke="url(#paint3_linear_2020_1505)" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="paint0_linear_2020_1505" x1="0" y1="25" x2="50" y2="25" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DF9F41"/>
+<stop offset="1" stop-color="#FFCB47"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2020_1505" x1="18" y1="22" x2="32" y2="22" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DF9F41"/>
+<stop offset="1" stop-color="#FFCB47"/>
+</linearGradient>
+<linearGradient id="paint2_linear_2020_1505" x1="14.9795" y1="30.3742" x2="35.0207" y2="30.3742" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DF9F41"/>
+<stop offset="1" stop-color="#FFCB47"/>
+</linearGradient>
+<linearGradient id="paint3_linear_2020_1505" x1="21.6855" y1="21.8258" x2="28.3544" y2="21.8258" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DF9F41"/>
+<stop offset="1" stop-color="#FFCB47"/>
+</linearGradient>
+</defs>
+</svg>
